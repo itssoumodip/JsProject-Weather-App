@@ -1,3 +1,10 @@
 # JsProject-Weather-App
 
-A simple weather application that provides current weather details such as temperature, humidity, and wind speed for a specified city. This project is built using **HTML**, **CSS**, and **JavaScript**, and utilizes the [OpenWeather API](https://openweathermap.org/) for real-time weather data.
+## How It Works
+1. Enter the name of the city in the search bar.
+2. Click the search button (🔍) or press Enter.
+3. The app fetches data from the OpenWeather API and displays:
+   - Current temperature.
+   - Humidity level.
+   - Wind speed.
+4. Visual cues like icons indicate sunny, cloudy, or rainy weather conditions.
