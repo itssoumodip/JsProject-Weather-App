@@ -1,5 +1,3 @@
-# JsProject-Weather-App
-
 # How It Works
 1. Enter the name of the city in the search bar.
 2. Click the search button (🔍) or press Enter.
