@@ -1,4 +1,4 @@
-# How It Works
+## How It Works
 1. Enter the name of the city in the search bar.
 2. Click the search button (🔍) or press Enter.
 3. The app fetches data from the OpenWeather API and displays:
